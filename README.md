@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I am Atharva</h1>
-<h3 align="center">A Linux fanboi ,Rust enthusiast and a Professional Lurker. I also do Web Development. Btw I don't tell people I use Gentoo Linux.</h3>
-
+<h3 align="center">A Linux fanboi ,Rust enthusiast and a Professional Lurker. I also do Web Development.</h3>
+<h3 align="center">Btw I don't tell people I use Gentoo Linux.</h3>
 - 🌱 I’m currently learning **Rust and Web Dev**
 
 - 💬 Ask me about **Linux**
