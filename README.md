@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **atharvaamritkar@protonmail.com**
+- 📫 How to reach me **hi@atharva.io**
 
 - ⚡ Fun fact **I don't use systemd.**
 
