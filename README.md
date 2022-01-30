@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **hi@atharva.io**
+- 📫 How to reach me **hi@atharva.io** and **wiredhikari#5319** on Discord
 
 - ⚡ Fun fact **I don't use systemd.**
 
