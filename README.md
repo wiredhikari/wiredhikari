@@ -17,6 +17,10 @@ I don't write often but you can find me on (medium link)
 
 
 #### Socials: (#todo)
+
+<a href="https://matrix.to/#/@atharvaamritkar:matrix.org">
+  <img align="left" alt="Wiredhikari's Matrix" width="22px" src="https://raw.githubusercontent.com/vector-im/logos/master/matrix/matrix-favicon-white.png" />
+</a>
 <a href="https://discord.com/users/442898394797572119">
   <img align="left" alt="Wiredhikari's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
