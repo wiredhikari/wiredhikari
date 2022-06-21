@@ -1,8 +1,8 @@
 ### Greetings!
-I'm Atharva (aka wiredhikari), a student based in IIT Kgp, India. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and read economics. I don't write often but you can find me on (medium link).
+I'm Atharva (aka wiredhikari), a student based in IIT Kgp, India tho I hail from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me on [hashnode](https://hashnode.com/@wiredhikari).
 
 #### Currently:
-I am doing remote jobs and kinda liking them. Am not looking for work this summer(2022), but you can contact me on atharvaamritkar@protonmail.com.
+I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
 
 #### Recent Projects:
 
@@ -10,9 +10,9 @@ I am doing remote jobs and kinda liking them. Am not looking for work this summe
 
 * Writing Nix modules for [Minimint](github.com/fedimint/minimint)
 
-
-
-#### Previously: (#todo)
+<!-- #### Previously: -->
+<!-- #### Talks -->
+<!-- #### Personal Projects -->
 
 
 #### Socials:
