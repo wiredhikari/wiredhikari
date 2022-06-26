@@ -6,9 +6,9 @@ I usually do remote jobs and kinda prefer them. Am not looking for work this sum
 
 #### Recent Projects:
 
-* Adding RISC-V support for [Gentoo Prefix](github.com/gentoo/prefix)
+* Adding RISC-V support for [Gentoo Prefix](https://github.com/gentoo/prefix)
 
-* Writing Nix modules for [Minimint](github.com/fedimint/minimint)
+* Writing Nix modules for [Minimint](https://github.com/fedimint/minimint)
 
 <!-- #### Previously: -->
 <!-- #### Talks -->
