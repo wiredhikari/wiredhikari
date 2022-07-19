@@ -1,5 +1,5 @@
 ### Greetings!
-I'm Atharva (aka wiredhikari), a student based in IIT Kgp, India tho I hail from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/).
+I'm Atharva (aka wiredhikari), a student based in IIT Kgp, India tho I hail from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Also someone recently said I am a Cypherpunk. 
 
 #### Currently:
 I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
