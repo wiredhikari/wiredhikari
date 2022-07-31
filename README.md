@@ -1,10 +1,11 @@
 ### Greetings!
-I'm Atharva (aka wiredhikari), a student based in IIT Kgp, India tho I hail from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Also someone recently said I am a Cypherpunk. 
+I'm Atharva (aka wiredhikari), a second year undergraduate student based in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Also someone recently said I am a Cypherpunk. 
 
 #### Currently:
-I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
+I am a generalist as of now and I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
 
 #### Recent Projects:
+
 
 * Adding RISC-V support for [Gentoo Prefix](https://github.com/gentoo/prefix)
 
