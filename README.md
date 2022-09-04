@@ -11,7 +11,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 * Writing Nix modules for [Minimint](https://github.com/fedimint/minimint)
 
-* Packaging applications for ngi-nix
+* Participated in Summer of Nix 
 
 <!-- #### Previously: -->
 <!-- #### Talks -->
