@@ -1,5 +1,6 @@
 ### Greetings!
-I'm Atharva (aka wiredhikari), a second year undergraduate student in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Also someone recently said I am a Cypherpunk. 
+I'm Atharva (aka wiredhikari), a second year undergraduate student in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Ok, I hate web development and javascript so much that i am writing it here.
+
 
 #### Currently:
 I am a generalist as of now and I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
@@ -38,3 +39,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/wiredhikari?template=classic&isocalendar=1&habits=1&music=1&stars=1&isocalendar.duration=half-year&stars.limit=4&habits.from=202&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&config.timezone=Asia%2FKolkata) -->
+
+
+
+
