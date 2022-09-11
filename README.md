@@ -3,7 +3,7 @@ I'm Atharva (aka wiredhikari), a second year undergraduate student in IIT Kgp, I
 
 
 #### Currently:
-I am a generalist as of now and I usually do remote jobs and kinda prefer them. Am not looking for work this summer (2022), but you can contact me on atharvaamritkar@protonmail.com.
+I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on atharvaamritkar@protonmail.com.
 
 #### Recent Projects:
 
