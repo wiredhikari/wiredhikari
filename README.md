@@ -12,7 +12,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 * Writing Nix modules for [Minimint](https://github.com/fedimint/minimint)
 
-* Packaging NLnet packages with Nix
+* Packaging NLnet applications with Nix
 
 <!-- #### Previously: -->
 <!-- #### Talks -->
