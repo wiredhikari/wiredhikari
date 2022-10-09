@@ -1,5 +1,5 @@
 ### Greetings!
-I'm Atharva (aka wiredhikari), a second year undergraduate student in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Ok, I hate web development and javascript so much that i am writing it here.
+I'm Atharva (aka wiredhikari), a third year undergraduate student in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Ok, I hate web development and javascript so much that i am writing it here.
 
 
 #### Currently:
