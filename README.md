@@ -16,7 +16,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 <!-- #### Previously: -->
 <!-- #### Talks -->
-<!-- #### Personal Projects -->
+<!-- #### Personal Projects-->
 
 
 #### Socials:
