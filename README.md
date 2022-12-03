@@ -5,7 +5,8 @@ I'm Atharva (aka wiredhikari), a third year undergraduate student in IIT Kgp, In
 #### Currently:
 I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on atharvaamritkar@protonmail.com.
 
-#### Recent Projects:
+
+#### Projects:
 
 
 * Adding RISC-V support for [Gentoo Prefix](https://github.com/gentoo/prefix)
@@ -13,6 +14,9 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 * Writing Nix modules for [Minimint](https://github.com/fedimint/minimint)
 
 * Packaging NLnet applications with Nix
+
+#### Hackathons
+
 
 <!-- #### Previously: -->
 <!-- #### Talks -->
