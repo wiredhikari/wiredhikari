@@ -15,9 +15,8 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 * Packaging NLnet applications with Nix
 
-#### Hackathons
 
-
+<!-- #### Hackathons -->
 <!-- #### Previously: -->
 <!-- #### Talks -->
 <!-- #### Personal Projects-->
