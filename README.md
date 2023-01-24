@@ -1,7 +1,7 @@
 ### Greetings!
 I'm Atharva (aka wiredhikari), a third year undergraduate student in IIT Kgp, India. based from Pune. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://atharva.io/). Ok, I hate web development and javascript so much that i am writing it here.
 
-
+My GPG : 24738473121A2DD7FDED9DB67FEC72DB90502FCD
 #### Currently:
 I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on atharvaamritkar@protonmail.com.
 
