@@ -16,10 +16,23 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 * Packaging NLnet applications with Nix
 
 
-<!-- #### Hackathons -->
+ #### Hackathons 
+ 
+- ETHIndia
+- Reef Hackathon
 <!-- #### Previously: -->
 <!-- #### Talks -->
 <!-- #### Personal Projects-->
+
+
+#### Adresses
+
+Bitcoin : bc1q6n8td50jlr8jr6gtd7m9lzqq29lw3085nft37c
+
+Ethereum : 0xF02a102d37af5fC965C876f81CB9217D627655E4
+
+ENS : wiredhikari.eth
+
 
 
 #### Socials:
@@ -39,13 +52,6 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
  <a href="https://t.me/wiredhikari">
   <img align="left" alt="Atharva telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
-
-#### Adresses
-Bitcoin : bc1q6n8td50jlr8jr6gtd7m9lzqq29lw3085nft37c
-
-Ethereum : 0xF02a102d37af5fC965C876f81CB9217D627655E4
-
-ENS : wiredhikari.eth
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/wiredhikari?template=classic&isocalendar=1&habits=1&music=1&stars=1&isocalendar.duration=half-year&stars.limit=4&habits.from=202&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&config.timezone=Asia%2FKolkata) -->
