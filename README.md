@@ -12,7 +12,7 @@ Ethereum : 0xF02a102d37af5fC965C876f81CB9217D627655E4
 ENS : wiredhikari.eth
 
 
-
+<!--
 #### Socials:
 
 <a href="https://matrix.to/#/@atharvaamritkar:matrix.org">
@@ -32,7 +32,7 @@ ENS : wiredhikari.eth
 </a>
 
 
-<!-- ![Metrics](https://metrics.lecoq.io/wiredhikari?template=classic&isocalendar=1&habits=1&music=1&stars=1&isocalendar.duration=half-year&stars.limit=4&habits.from=202&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&config.timezone=Asia%2FKolkata) -->
+ ![Metrics](https://metrics.lecoq.io/wiredhikari?template=classic&isocalendar=1&habits=1&music=1&stars=1&isocalendar.duration=half-year&stars.limit=4&habits.from=202&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&config.timezone=Asia%2FKolkata) -->
 
 
 
